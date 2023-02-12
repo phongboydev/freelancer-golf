@@ -1,0 +1,30 @@
+{
+    "name": "inapps/inapps-modules",
+    "description": "InApps module structure maker for its laravel projects.",
+    "type": "project",
+    "license": "MIT",
+    "keywords": [
+        "laravel",
+        "laravel-modules",
+        "architecture",
+        "php",
+        "PSR-12"
+    ],
+    "authors": [
+        {
+            "name": "Derek Nguyen",
+            "email": "anh.nguyen@inapps.net"
+        },
+        {
+            "name": "Quang Nguyen",
+            "email": "quang.nguyen@inapps.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "InApps\\IAModules\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="51px" viewBox="0 0 30 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>right-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Wireframe---Both" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Option-1-Copy" transform="translate(-1590.000000, -457.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M1580.78694,491.774598 C1580.24402,492.320024 1580,493.014726 1580,493.703662 C1580,494.478747 1580.36602,495.265301 1581.03096,495.833684 C1582.25713,496.890067 1584.20923,496.80396 1585.3073,495.627003 L1605.01145,475.147894 L1624.71558,495.627003 C1625.81364,496.80396 1627.76575,496.890067 1628.97973,495.833684 C1630.26079,494.771535 1630.3279,492.945811 1629.22375,491.774598 L1607.26247,468.947319 C1606.71953,468.344489 1605.86549,468 1605.01145,468 C1604.15739,468 1603.29724,468.344489 1602.75432,468.947319 L1580.78694,491.774598 Z" id="right-arrow" transform="translate(1605.000000, 482.285721) rotate(-270.000000) translate(-1605.000000, -482.285721) "></path>
+        </g>
+    </g>
+</svg>

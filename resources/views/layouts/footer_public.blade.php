@@ -1,0 +1,1 @@
+{!!WebService::historyProductRender('read_product_home clear')!!}

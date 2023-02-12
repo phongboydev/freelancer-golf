@@ -1,0 +1,77 @@
+#customer-dashboard{
+	padding: 40px 0;
+}
+.my-dashboard, .account_infomation, .address_book{
+	padding-bottom: 20px;
+}
+.row-title{
+	padding-bottom: 3px;
+	border-bottom: 1px solid #ccc;
+	margin-bottom: 15px;
+	text-transform: uppercase;
+	position: relative;
+	font-weight: bold;
+	font-size: 18px;
+}
+.tit-menu-cus{
+	font-size: 18px;
+	font-weight: bold;
+	padding-bottom: 5px;
+	border-bottom: 2px solid #ccc;
+}
+.menu-cus li {
+    border-bottom: 1px solid #ccc;
+    padding: 8px 2px;
+    text-transform: uppercase;
+}
+.menu-cus li:last-child{
+	border-bottom: none;
+}
+.padding-tit{
+	padding-bottom: 8px;
+	text-transform: uppercase;
+	font-size: 16px;
+	font-weight: bold;
+}
+.btn_action {
+    margin-top: 10px;
+}
+.btn_cancel, .btn_update {
+    display: none;
+}
+.btn_update.active, .btn_cancel.active {
+    display: block;
+}
+.btn_edit_form.active {
+    display: none;
+}
+.btn_update input, .btn_edit_form input{
+	background: #f1592a;
+	color: #FFF;
+}
+.tbl-my-reviews tr th{
+	border-bottom: 1px solid #ddd !important;
+	border-left: none !important;
+    border-right: none !important;
+    border-top: none !important;
+    text-align: center;
+}
+.tbl-my-reviews tr td {
+    text-align: center;
+    border-top: 1px solid #ddd !important;
+    border-bottom: 1px solid #ddd !important;
+    border-left: none !important;
+    border-right: none !important;
+}
+.customer-dashboard-content .page-title h1{
+    font: 500 20px/1.25 Roboto,sans-serif;
+    text-transform: uppercase;
+    border-bottom: 1px solid #939393;
+    padding-bottom: 5px;
+    color: #191919;
+    float: none !important;
+    text-align: left;
+}
+.customer-dashboard-content .page-title{
+	padding-bottom: 30px;
+}

@@ -1,0 +1,15 @@
+composer.lock
+vendor
+build
+
+clover.xml
+
+examples/credentials.php
+
+!cache/.gitkeep
+cache/
+
+.phpunit.result.cache
+
+!assets/.gitkeep
+assets/

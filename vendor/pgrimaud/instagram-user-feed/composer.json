@@ -1,0 +1,51 @@
+{
+  "name": "pgrimaud/instagram-user-feed",
+  "type": "library",
+  "description": "This is a scraper to easily fetch any feed and interact with Instagram (like, follow, etc.) without OAuth for PHP.",
+  "keywords": [
+    "instagram",
+    "api",
+    "php",
+    "feed",
+    "social",
+    "sdk"
+  ],
+  "homepage": "https://github.com/pgrimaud/instagram-user-feed",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Pierre Grimaud",
+      "email": "grimaud.pierre@gmail.com"
+    },
+    {
+      "name": "Charles Salvan",
+      "email": "charles.salvan@hotmail.fr"
+    },
+    {
+      "name": "Tim Bond",
+      "email": "cookieguru@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Instagram\\": "src/Instagram/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Instagram\\Tests\\": "tests/"
+    }
+  },
+  "require": {
+    "php": ">=7.2.5",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "symfony/cache": "^3.4|^4.3|^5.0|^6.0",
+    "guzzlehttp/guzzle": "^6.0|^7.0"
+  },
+  "require-dev": {
+    "php-coveralls/php-coveralls": "^2.2",
+    "phpunit/phpunit": "^8.5|^9.5",
+    "symfony/var-dumper": "^5.0|^6.0"
+  }
+}

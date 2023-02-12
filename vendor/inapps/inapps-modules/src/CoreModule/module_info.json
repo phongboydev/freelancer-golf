@@ -1,0 +1,4 @@
+{
+  "moduleNamespace" : "Modules\\IACoreModule\\",
+  "provider" : "Modules\\IACoreModule\\Providers\\IACoreServiceProvider"
+}
